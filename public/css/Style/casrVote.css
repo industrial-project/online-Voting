@@ -1,0 +1,56 @@
+ .btn-success{
+      disabled:true;
+      background-color: green;
+      color: white;      
+      float: center;
+      margin-left: 300px;
+      margin-bottom: 20px; 
+      width: 150px;
+      height: 45px;
+      font-size: 30px;
+      font-weight: bold;
+      padding-bottom: 12px;
+      align-items: center;
+      border-radius: 18px;
+    }
+    form{
+      background-color: white;
+      margin: 18px;
+      height: auto;
+      width: auto;
+    }
+
+    p
+    {
+      font-size: 34px;
+      color: groove;     
+      padding: 22px; 
+      margin-left: : 12px;
+      align-items: center;
+    }
+    table{
+      
+      margin: 30px;
+      width: auto;
+      height: auto;
+      float: center;
+      font-size: 24px;
+
+    }
+    th,tr{
+      margin: 10px;
+      padding: 10px;
+      color: black;
+      background-color: white;
+      height: 180px;
+      width: 580px;
+    }
+    .canphoto
+    {width: 380px;
+      height: 180px;
+      
+    }
+    .canlogo{
+      width: 210px;
+      height: 120px;
+    }

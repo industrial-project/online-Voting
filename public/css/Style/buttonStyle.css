@@ -1,0 +1,32 @@
+.btn{
+  width:80px;
+  border-radius: 10px;
+  /* background-color:rgb(1, 66, 61) ; */
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*color: white;*/
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  
+}
+.btn:hover{
+  color:black;
+  border-color: black;
+}
+.btn-edit{   
+    background-color:transparent;
+    color: white;
+    font-weight: bold;   
+    margin-left: 10px;
+    color:black;
+}
+
+
+  .btn-submit{
+    background-color: rgb(5, 85, 155);
+    color: white;
+    font-weight: bold;   
+    margin-left: 10px;
+    height: 35px;
+  }
